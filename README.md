@@ -3,7 +3,8 @@
 > End-to-end data pipeline, EDA, and ML modeling on official DMRC GTFS feed to detect congestion patterns and enable demand-driven scheduling.
 
 ---
-
+## Model
+- Delhi_Metro_ML_Models.ipynb
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Dataset](#dataset)
